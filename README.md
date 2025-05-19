@@ -26,4 +26,4 @@ applications and contributing to open-source projects.
 - Email: marwa.bahhah@gmail.com
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)
+https://github.com/marwabahhah/marwabahhah?tab=readme-ov-file#readme
